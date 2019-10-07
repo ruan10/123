@@ -1,0 +1,18 @@
+<html> 
+ <head> 
+  <title>个人简历</title>  </head> 
+  </head> 
+ <body bgcolor=#cccccc> 
+ <h2 align="center"><font face=华文琥珀 size=6>个人简历</font></h2> <form>
+ <table border="0" align="center" width="700"> <tr> 
+ <td width="600" align="right">填表时间：</td> 
+ <td width="50"><input type=text name=a1 size=6></td>
+ <td width="10" align="right">年</td> 
+ <td width="10"><input type=text name=a2 size=6></td>
+ <td width="10" align="right">月</td> 
+ <td width="10"><input type=text name=a3 size=6></td>
+  <td width="10" align="right">日</td> 
+  </tr>   
+  </table> 
+ <table border="1" align="center" width="700"> 
+<tr>
